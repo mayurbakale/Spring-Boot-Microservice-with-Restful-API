@@ -1,0 +1,1 @@
+insert into product(productId,name,description,amount,productType) values(1,'ABC','ProductABC',20,'TypeABC');

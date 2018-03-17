@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: product-catalogue
+Implementation-Version: 1.0
+Built-By: user
+Implementation-Vendor-Id: com.product.catalogue
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/productCatal
+ ogue/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
